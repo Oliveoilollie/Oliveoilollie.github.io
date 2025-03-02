@@ -1,10 +1,10 @@
 ---
 title: "Contributing to the Acreetion-OS project"
-excerpt: ""
+excerpt: "The amazing OS started by a amazing friend :3"
 collection: portfolio
 ---
 
-# Hello lost soul! here is some of the projects ive done/Contributed to on the AcreetionOS project
+## Hello lost soul! here is some of the projects ive done/Contributed to on the AcreetionOS project
 
 - Package scripts for future AcreetionOS packages 
     - [AcreetionOS-PKGBUILD](https://github.com/AcreetionOS-Linux/Acreetion-PKGBUILDs)
