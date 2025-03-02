@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Oliveoilollie's/Liv's temp site"
+title                    : "Liv's temporary site, stay cozy!"
 title_separator          : "-"
 name                     : &name "Liv Rickey"
 description              : &description "Linux user, transfem, not a programmer but i do enjoy a bit of coding"
@@ -22,14 +22,14 @@ repository               : "Oliveoilollie/oliveoilollie.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "car.png"
+  name             : "Liv Rickey (i dont like taking photos sorry)"
   pronouns         : "She/Her"
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Stillwater, OK"
+  employer         : "AcreetionOS maintainer, Local driveway maker"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Liv_Rickey@protonmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app/profile/livscatgirl.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "livscatgirl.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,19 +60,19 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : "transfem.social/@liv_isgay" # URL
+  mastodon         : "@liv_isgay@transfem.social" # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "steamcommunity.com/id/Oliveoilollie/" # Username
+  steam            : "Oliveoilollie" # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "x.com/liv_linux" # Username for X / Twitter
+  twitter          : "liv_linux" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "youtube.com/@justaolive6714" # Username
+  youtube          : "@justaolive6714" # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
