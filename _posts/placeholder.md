@@ -9,3 +9,5 @@ tags:
 ---
 
 i cant belive this, a place holder again?????
+
+this is where i rant about shit thats killing us on the internet

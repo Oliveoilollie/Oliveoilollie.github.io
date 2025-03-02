@@ -10,11 +10,4 @@ location: "online?"
 
 This is a place holder for future stuff about linux, stay tuned (if i dont forget)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+i will have youtube videos listed here for people to watch and see

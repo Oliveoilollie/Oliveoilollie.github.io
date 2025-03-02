@@ -14,3 +14,6 @@ citation: 'idk i found this somewhere'
 Placeholder for things i learn about or wanna write about. idk i will prolly not use this and delete this later
 
 the PDF is for shits n giggles
+
+
+# this one might be used for PDFs on how to do things, maybe a guide on how to use xmonad for example
