@@ -1,0 +1,48 @@
+/* ==========================================================================
+   GRUVBOX DARK THEME
+   ========================================================================== */
+
+/* Gruvbox dark color codes */
+$bg-color                    : #282828;  // Background color
+$fg-color                    : #ebdbb2;  // Foreground (text) color
+$gray                        : #7c6f64;  // Base gray color (light gray)
+$dark-gray                   : #3c3836;  // Darker gray
+$darker-gray                 : #1d2021;  // Even darker gray (close to text)
+$light-gray                  : #a89984;  // Lighter gray (for borders, subtle items)
+$lighter-gray                : #928374;  // Very light gray (background sections)
+
+/* Gruvbox theme colors */
+$danger-color                : #fb4934;  // Red
+$info-color                  : #83a598;  // Blue
+$notice-color                : #a89984;  // Lighter gray, for neutral notices
+$success-color               : #b8bb26;  // Green
+$warning-color               : #fabd2f;  // Yellow
+
+/* Other basic settings for the template */
+$border-radius               : 4px;
+$box-shadow                  : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition           : all 0.2s ease-in-out;
+$masthead-height             : 70px;
+$navicon-width               : 28px;
+$navicon-height              : 4px;
+$sidebar-link-max-width      : 250px;
+$sidebar-screen-min-width    : 1024px;
+
+/* Gruvbox dark theme for the site */
+:root {
+    --global-base-color                 : #{$gray};
+    --global-bg-color                   : #{$bg-color};
+    --global-border-color               : #{$lighter-gray};
+    --global-code-background-color      : #3c3836;  // Dark code background
+    --global-code-text-color            : #{$fg-color};
+    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
+    --global-link-color                 : #83a598;
+    --global-link-color-hover           : mix(#000, #83a598, 25%);
+    --global-link-color-visited         : mix(#fff, #83a598, 25%);
+    --global-masthead-link-color        : #{$dark-gray};
+    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
+    --global-text-color                 : #{$darker-gray};
+    --global-text-color-light           : #{$light-gray};
+    --global-thead-color                : #{$lighter-gray};
+}
+
