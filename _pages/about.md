@@ -18,17 +18,21 @@ i am glad to see you here, please look around and find more about me and the pro
   - ### Creating packages for the AcreetionOS team (PKGBUILDS)
   - ### Shell Scripting
 
+======
+
 # My Hardware
 - ## My PC specs:
   - ### OMEN 25L Desktop GT12-0xxx (My main Rig)
-   - CPU: Intel i5-10400 (12) @ 4.3GHz
-   - GPU: NVIDIA GeForce GTX 1660 SUPER
-   - Memory: 32 GB
+   	- CPU: Intel i5-10400 (12) @ 4.3GHz
+   	- GPU: NVIDIA GeForce GTX 1660 SUPER
+   	- Memory: 32 GB
 
 - ## My Phone
   - ### IPhone 13 Pro Max (i dont need latest and greatest for phone calls and tiktok)
-   -  128 GB of storage
-   -  Space Grey
+   	-  128 GB of storage
+   	-  Space Grey
+
+======
 
 # Software of choice, i try to stay opensource but i do use closed source software alot as well.
 
