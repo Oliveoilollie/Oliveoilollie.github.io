@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About Me & My Hardware"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 # Welcome to livs personal website!
 
 i am glad to see you here, please look around and find more about me and the projects im doing/working on/ have finished. this site is temporary as i at some point want to try and make my own site from scratch. :3
