@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "gruvbox"
+site_theme               : "gruvbox-dark"
 title                    : "Liv's temporary site, stay cozy!"
 title_separator          : "-"
 name                     : &name "Liv Rickey"
